@@ -1,0 +1,7 @@
+CustomHeader	Domain	ResolvedIP
+17103600	netflix.com.	192.168.1.6
+17103601	linkedin.com.	192.168.1.7
+17103602	example.com.	192.168.1.8
+17103603	google.com.	192.168.1.9
+17103604	facebook.com.	192.168.1.10
+17103605	amazon.com.	192.168.1.6
