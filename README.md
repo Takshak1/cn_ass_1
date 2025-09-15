@@ -58,8 +58,8 @@ The client reads DNS packets from the provided `3.pcap` file, appends a custom h
 When both are running, the server prints processed packet details:
 
 ```
-Custom header: 17103600 | Domain: netflix.com  | Resolved IP: 192.168.1.6
-Custom header: 17103601 | Domain: linkedin.com | Resolved IP: 192.168.1.7
+17103600 | Domain: netflix.com  | Resolved IP: 192.168.1.6
+17103601 | Domain: linkedin.com | Resolved IP: 192.168.1.7
 ```
 
 ---
