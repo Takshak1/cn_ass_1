@@ -1,7 +1,8 @@
 # cn_ass_1
 Member: Prateek Takshak(23110256)
-**whole code is written in c++**
-**i build my own parsing tool for parsing the pcap file**
+#
+* **whole code is written in c++**
+* **i build my own parsing tool for parsing the pcap file**
 
 
 # Requirements
