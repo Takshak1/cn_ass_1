@@ -1,4 +1,4 @@
-# cn_ass_1
+# CN_ass_1
 Member: Prateek Takshak(23110256)
 #
 * **whole code is written in c++**
@@ -7,9 +7,7 @@ Member: Prateek Takshak(23110256)
 
 # Requirements
 
-* **GCC (GNU Compiler Collection)**
-* **libpcap development package**
-  *(Ubuntu/Debian: `sudo apt-get install libpcap-dev`)*
+* **G++ (GNU Compiler Collection)**
 
 ---
 
@@ -32,7 +30,7 @@ This generates two executables:
 
 ### 1. Start the Server
 
-Run the server first (listens on **UDP port 8080** by default):
+Run the server first (listens on **UDP port ** ):
 
 ```bash
 ./server.out
@@ -69,7 +67,7 @@ When both are running, the server prints processed packet details:
 
 # Field Explanations
 
-* **Custom header** → `[HH][MM][SS][ID]`
+* **Custom header** → `[HH][MM][SS][ID]` as per the current system time
 * **Domain** → extracted from DNS query
 * **Resolved IP** → selected from a static pool, based on time slot and query ID
 
